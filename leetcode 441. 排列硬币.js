@@ -1,3 +1,4 @@
+// https://leetcode-cn.com/problems/arranging-coins/
 var arrangeCoins = function(n) {
     let i = 1
     while(true){

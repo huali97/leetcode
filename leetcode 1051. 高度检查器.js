@@ -1,3 +1,4 @@
+// https://leetcode-cn.com/problems/height-checker/
 var heightChecker = function (heights) {
     let result = 0
     //浅拷贝数组，因为arr.sort()排序改变原数组

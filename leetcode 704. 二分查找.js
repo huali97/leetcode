@@ -1,3 +1,4 @@
+// leetcode 704. 二分查找 https://leetcode-cn.com/problems/binary-search/leetcode-cn.com/problems/binar...
 var search = function (nums, target) {
     let low = 0, high = nums.length - 1
     while (low <= high) {

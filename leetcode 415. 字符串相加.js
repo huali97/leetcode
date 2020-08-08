@@ -1,3 +1,4 @@
+// leetcode 415. 字符串相加 https://leetcode-cn.com/problems/add-strings/leetcode-cn.com/problems/add-s...
 var addStrings = function (num1, num2) {
     let i = num1.length - 1, j = num2.length - 1, add = 0;
     let result = [];
